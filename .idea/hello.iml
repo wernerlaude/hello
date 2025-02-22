@@ -153,5 +153,12 @@
     <orderEntry type="library" name="cc_precompiler" level="project" />
     <orderEntry type="library" name="table" level="project" />
     <orderEntry type="library" name="hpack" level="project" />
+    <orderEntry type="module-library">
+      <library name="Elixir at /opt/homebrew/Cellar/elixir/1.17.3/lib/elixir">
+        <CLASSES />
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
   </component>
 </module>
