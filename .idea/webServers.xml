@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c198ec3f-91c9-4807-85cd-90ccd4e917fc" name="test" url="https://ruby-on-rails-entwicklung.de">
+        <fileTransfer rootFolder="/home/hello" host="www.ruby-on-rails-entwicklung.de" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
